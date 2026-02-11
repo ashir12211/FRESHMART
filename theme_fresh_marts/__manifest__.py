@@ -24,7 +24,7 @@
     'license': 'LGPL-3',
     'support': 'teamxapp.dev@gmail.com',
     'live_test_url': 'https://freshmart.xappco.site/',
-    'price': 10.00,
+    'price': 109.00,
     'currency': 'USD',
     'depends': [
         'website',
