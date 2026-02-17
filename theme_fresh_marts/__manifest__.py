@@ -23,7 +23,7 @@
     'odoo_online': False,
     'license': 'LGPL-3',
     'support': 'teamxapp.dev@gmail.com',
-    'live_test_url': 'https://freshmart1.xappco.site/',
+    'live_test_url': 'https://freshmarts.xappco.site/',
     'price': 109.00,
     'currency': 'USD',
     'depends': [
